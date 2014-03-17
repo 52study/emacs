@@ -1,4 +1,4 @@
-ac-comphist.dat
+*.dat
 bookmarks
 auto-save-list/.saves-10181-derondembp.local~
 auto-complete/popup.elc
@@ -7,3 +7,5 @@ auto-complete/auto-complete.elc
 auto-complete/auto-complete-config.elc
 *.elc
 .*
+eshell/history
+eshell/lastdir
