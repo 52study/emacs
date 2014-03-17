@@ -73,10 +73,10 @@
 ;; %g从目标容器的标签中选择 
 ;; %G——从全局标签中选择
 (setq org-remember-templates '(
-			       ("Inbox" ?I "** TODO %^{Brief Description} %^g\n:scheduled: %t\n%?" "~/.gtd/inbox.org" "收集")
-			       ("Task" ?t "** TODO %^{Brief Description} %^g\n:scheduled: %t\n%?" "~/.gtd/task.org" "任务")
-			       ("Project" ?p "** NEXT %^{Brief Description} %^g\n:scheduled: %t\n%?" "~/.gtd/project.org" "项目") 
-			       ("Idea" ?i "** SOMEDAY %^{Brief Description} %^g\n:added: %t\n%?" "~/.gtd/idea.org" "灵感"))) 
+			       ("Inbox" ?I "** TODO %^{Brief Description} %^g\n%?" "~/.gtd/inbox.org" "收集")
+			       ("Task" ?t "** TODO %^{Brief Description} %^g\n\n%?" "~/.gtd/task.org" "任务")
+			       ("Project" ?p "** NEXT %^{Brief Description} %^g\n%?" "~/.gtd/project.org" "项目") 
+			       ("Idea" ?i "** SOMEDAY %^{Brief Description} %^g\n%?" "~/.gtd/idea.org" "灵感"))) 
 
 ;; 将项目转接在各个文件之间，方便清理和回顾
 (custom-set-variables

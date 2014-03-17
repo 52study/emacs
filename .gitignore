@@ -7,3 +7,8 @@ eshell/lastdir
 .DS_Store
 ac-comphist.dat
 bookmarks
+eshell/history
+eshell/lastdir
+init/gtd.el
+.gitignore
+bookmarks

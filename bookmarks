@@ -3,18 +3,18 @@
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
 (("org-capture-last-stored"
- (filename . "~/.notes/org/PHP进阶.org")
- (front-context-string . "** redis使用\n*** r")
- (rear-context-string . "高。写与读操作速度由明显差别。\n")
- (position . 733))
+ (filename . "~/.notes/org/MongoDB学习.org")
+ (front-context-string . "** 条件操作符\n*** 条件操")
+ (rear-context-string . "查询的速度得到非常显著的提升。\n")
+ (position . 4067))
 ("org-refile-last-stored"
- (filename . "~/.gtd/finished.org")
- (front-context-string . "** TODO feed留言举报")
- (rear-context-string)
- (position . 7))
+ (filename . "~/.gtd/trash.org")
+ (front-context-string . "** NEXT 新版举报功能的测")
+ (rear-context-string . "2014-03-07 Fri>\n")
+ (position . 308))
 ("org-remember-last-stored"
- (filename . "~/.gtd/task.org")
- (front-context-string . "** TODO 学习Redis中")
- (rear-context-string . "2014-03-10 Mon>\n")
- (position . 103))
+ (filename . "~/.gtd/project.org")
+ (front-context-string . "** NEXT Feed反馈功能")
+ (rear-context-string . "2014-03-18 Tus>\n")
+ (position . 656))
 )

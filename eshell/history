@@ -1,23 +1,3 @@
-ls
-cd feed/
-ls
-cd ..
-ls
-cd proxy/
-cd ../provider/
-clear
-ls
-cd feed/
-ls
-ls
-cd
-clear
-ls
-cd .emacs.d/
-ls
-cd init/
-ls
-touch git.el
 cd Workspace/momowebsite/
 ls
 cd src/
@@ -126,3 +106,23 @@ ls
 git branch
 git push status 8556_wdl
 git push origin 8556_wdl
+ls
+cd .emacs.d
+ls
+ls
+git push origin master
+git push origin master
+clear
+cd ../Workspace/
+ls
+cd momowebsite/
+ls
+cd src/
+;s
+ls
+cd main/
+ls
+cd php
+ls
+ls
+clear
