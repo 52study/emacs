@@ -1,15 +1,4 @@
 ls
-ls
-cd Workspace/momowebsite/
-ls
-cd src/main/
-ls
-cd php
-ls
-ls
-ls
-ls
-ls
 cd Workspace/
 s
 ls
@@ -126,3 +115,14 @@ cd php
 ls
 ls
 clear
+cd .emacs.d
+ls
+git add auto-complete/
+ls
+git add eshell/
+git add init/
+git add unicad/
+git add git/
+git add php-chunked-xhtml/
+clear
+ls
