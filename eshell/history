@@ -1,26 +1,4 @@
 ls
-cd Workspace/
-s
-ls
-cd momowebsite/
-ls
-cd src/
-ls
-cd main/
-ls
-cd php/
-ls
-cd app/controller/
-ls
-cd admin/
-ls
-cd feed/
-ls
-cd ..
-cd ..
-cd ..
-cd model/
-ls
 cd feed/
 ls
 cd ..
@@ -126,3 +104,25 @@ git add git/
 git add php-chunked-xhtml/
 clear
 ls
+ls
+cd .emacs.d
+ls
+cd ..
+ls
+cd Workspace/
+ls
+cd momowebsite/
+ls
+cd src/
+ls
+cd main/
+ls
+cd php/
+ls
+cd app/
+ls
+clear
+ls
+git branch
+git push status 8556_wdl
+git push origin 8556_wdl

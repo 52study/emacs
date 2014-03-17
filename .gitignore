@@ -1,0 +1,9 @@
+*~
+*.elc
+.#*
+TAGS
+eshell/history
+eshell/lastdir
+ac-comphist.dat
+bookmarks
+.DS_Store
