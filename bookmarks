@@ -1,0 +1,20 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-capture-last-stored"
+ (filename . "~/.notes/org/PHP进阶.org")
+ (front-context-string . "** redis使用\n*** r")
+ (rear-context-string . "高。写与读操作速度由明显差别。\n")
+ (position . 733))
+("org-refile-last-stored"
+ (filename . "~/.gtd/finished.org")
+ (front-context-string . "** TODO feed留言举报")
+ (rear-context-string)
+ (position . 7))
+("org-remember-last-stored"
+ (filename . "~/.gtd/task.org")
+ (front-context-string . "** TODO 学习Redis中")
+ (rear-context-string . "2014-03-10 Mon>\n")
+ (position . 103))
+)
