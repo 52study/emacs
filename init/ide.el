@@ -1,11 +1,6 @@
 ;;; init ide environment(include tabbar,cscope)
 
-;; 快捷键
-;; A-up 上一个buffer
-;; A-down 下一个buffer
-
-;;; code 
-
+;;; code
 ;; 进入view-mode快捷键
 (global-set-key [(f4)] 'view-mode)
 (add-to-list 'load-path "~/.emacs.d/ide")
@@ -64,23 +59,7 @@
 ) 
 (setq tabbar-buffer-groups-function 're-tabbar-buffer-groups) 
 
-;; ;; speedbar
-;; (require 'sr-speedbar)
-;; ;; 开启程序即使用并放置左边
-;; (defalias 'sb 'sr-speedbar-toggle)
-;; (setq sr-speedbar-right-side nil)
-;; (sr-speedbar-toggle)
-;; (setq sr-speedbar-width 50)
-;; ;; 自动刷新
-;; (setq sr-speedbar-auto-refresh t)
-;; ;; 排序
-;; (setq speedbar-sort-tags t)
-;; ;; 设置宽度
-;; (setq sr-speedbar-max-width 55)
-;; ;; 自动调整宽度
-;; (with-current-buffer sr-speedbar-buffer-name
-;;   (setq window-size-fixed 'width))
-;; ;; 打开／关闭
-;; (global-set-key [(f2)] 'sr-speedbar-toggle) 
+(require 'ido)
+(ido-mode t)
 
 

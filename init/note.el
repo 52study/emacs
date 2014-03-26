@@ -14,6 +14,10 @@
 	 "")
 	("i" "互赖" entry (file "~/.notes/org/互赖.org")
 	 "")
+	("s" "数据结构" entry (file "~/.notes/org/数据结构.org")
+	 "")
+	("c" "编译原理" entry (file "~/.notes/org/编译原理.org")
+	 "")
 	("e" "Emacs学习" entry (file "~/.notes/org/Emacs学习.org")
 	 "")))
 
